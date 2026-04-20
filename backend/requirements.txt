@@ -1,8 +1,0 @@
-Flask
-flask_cors
-pymongo[srv]
-scikit-learn
-sentence-transformers
-numpy
-nltk
-gunicorn
